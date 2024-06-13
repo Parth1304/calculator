@@ -7,7 +7,7 @@ function App() {
     <div className="container">
       <div className="calculator">
         <form action="">
-          <div className="display">
+          <div className="displayAnswer">
           <input type="text" value={value}/>
           </div>
         <div>

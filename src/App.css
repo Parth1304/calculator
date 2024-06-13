@@ -30,13 +30,13 @@
     font-weight: bolder;
   }
 
-  form .display{
+  form .displayAnswer{
     display: flex;
     justify-content: flex-end;
     margin: 5px 0px 15px 0px;
   }
 
-form .display input{
+form .displayAnswer input{
     text-align: right;
     flex:1;
     font-size: 40px;
